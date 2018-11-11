@@ -60,9 +60,9 @@
 It's possible to add your own application if you know the appID (and if you don't just run the `appslist` command to get a list). Add your application on `apps.json`, restart the Alexa bridge and run the device discovery on Alexa app on your mobile or at the [Alexa website](https://alexa.amazon.com).
 
 ### Thanks to original work conducted by
-- [lucone83, forked lgvt-alexa-skill] (https://github.com/lucone83/lgtv-alexa-skill)
+- [lucone83, forked lgvt-alexa-skill](https://github.com/lucone83/lgtv-alexa-skill)
 - [hobbyquacker, lgtv2 library](https://github.com/hobbyquaker/lgtv2)
 - [neil-morrison-44, forked project](https://github.com/neil-morrison44/lg-alexa-node)
 
 ### Special thanks to the one and only
-- [sbeckeriv] (https://github.com/sbeckeriv)
+- [sbeckeriv](https://github.com/sbeckeriv)
